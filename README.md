@@ -1,1 +1,2 @@
 # Student_Management
+The Student Management System software is primarily developed to manage student records. It includes the registration of students and the storage of their details in a computerized system. It assigns a unique ID to each student and maintains detailed records for every individual. It features a search capability that allows users to find information by name, contact number, or roll number. Data retrieval is efficient and straightforward. The interface is user-friendly, and personal data is well protected, ensuring fast data processing.
